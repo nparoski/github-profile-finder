@@ -1,0 +1,4 @@
+✔ Validate username @done (4/9/2019, 10:07:28 AM)
+  ✔ Check username with regex to meet github username requierments before fetching data. @done (4/8/2019, 8:26:54 PM)
+    ✔ Regex ^(?=.{1,39}$)[a-zA-Z\d]+(?:-[a-zA-Z\d]+)*$ @done (4/8/2019, 6:25:23 PM)
+  ✔ If its successful publish it to localstorage, if not render status error msg(even if userdoesnt exist). @done (4/9/2019, 10:07:26 AM)

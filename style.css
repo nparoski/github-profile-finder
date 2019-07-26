@@ -1,0 +1,39 @@
+/* Resets */
+body{
+  margin: 0;
+}
+/* Resets */
+#profile{
+  display: flex;
+  flex-direction: column;
+}
+.status{
+  color:#fff;
+  border-radius:3px;
+  padding:10px;
+  align-self: center;
+}
+.success{
+  background:#3acc32;
+}
+.warning{
+  background:#e79821;
+}
+.error{
+  background:#ee2626;
+}
+.img{
+  display:block;
+  margin:0px auto 10px;
+  border-radius:3px;
+  width:150px;
+}
+.text-center{
+  text-align: center;
+}
+.d-flex{
+  display: flex;
+}
+.justify-content-around{
+  justify-content: space-around;
+}
